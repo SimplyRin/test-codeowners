@@ -1,4 +1,6 @@
 .github/ @SimplyRin
 
+src/ @SimplyRin
+
 *.md @SimplyRin
 *.js @SimplyRin
